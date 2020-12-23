@@ -1,0 +1,7 @@
+{
+  "name": "TinderLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
